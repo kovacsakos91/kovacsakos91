@@ -3,4 +3,6 @@
 
 ![Akos's GitHub stats](https://github-readme-stats.vercel.app/api?username=kovacsakos91&show_icons=true&theme=radical)
 
-<a href="https://veloviewer.com/athlete/98012356/"><img src="https://veloviewer.com/SigImage/5d7bcfd/4/3/M/n/amgihkjlod.png"></a>
+<a href="https://veloviewer.com/athlete/98012356/"><img align="middle" src="https://veloviewer.com/SigImage/5d7bcfd/4/3/M/n/amgihkjlod.png"></a>
+
+<img align="middle" src="https://github.com/kovacsakos91/kovacsakos91/blob/main/vv.png?raw=true">
