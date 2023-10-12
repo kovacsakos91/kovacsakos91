@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ákos Kovács</h1>
 <h3 align="center">A test automation engineer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![Akos's GitHub stats](https://github-readme-stats.vercel.app/api?username=kovacsakos91&show_icons=true&theme=radical)
